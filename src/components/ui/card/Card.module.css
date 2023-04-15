@@ -1,0 +1,28 @@
+.card {
+    border: 2px solid #e7e7e7;
+    border-radius: 5%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 8px;
+    text-align: center;
+    background-color: #f1f1f1;
+}
+
+.card.selected {
+    background-color: #595757;
+}
+
+.card_title {
+    color: #030e28;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.card_image {
+    width: 80%;
+}
+
+.card_description {
+    font-weight: bolder;
+    color: #030e28;
+}
+
